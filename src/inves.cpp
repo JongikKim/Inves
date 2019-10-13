@@ -74,6 +74,8 @@ int InvesVerifier::reorderPartition()
 
 bool InvesVerifier::rematch()
 {
+	return false;
+
 	int tmp = source[fail_position];
 	for(int i = fail_position; i > 0; i--) source[i] = source[i-1];
 	source[0] = tmp;
