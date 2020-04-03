@@ -1,7 +1,7 @@
 # Inves
 
 Inves is a research prototype for a graph similarity search technique with graph edit distance constraints.
-The related publication is "Inves: Incremental partitioning-based verification for graph similarity search" EDBT 2019.
+The related publication is "Inves: Incremental partitioning-based verification for graph similarity search", EDBT 2019.
 
 # How to build
 > make
